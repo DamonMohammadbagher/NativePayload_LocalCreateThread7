@@ -1,5 +1,7 @@
 # NativePayload_LocalCreateThread7
- Chunking CobaltStrike Payloads + Jump Method
+ Chunking CobaltStrike Payloads + Jump Method 
+
+ #### Kaspersky v21 with last update tested and Bypassed!
 
 
  Chapter 4.3 of Ebook Bypassing AVs by C# Programming v2.0 => https://damonmohammadbagher.github.io/Posts/26feb2024x.html
